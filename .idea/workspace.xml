@@ -20,15 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6669f7b-7ddb-4486-aa75-1b90e75fc5cd" name="Default Changelist" comment="//complete">
-      <change beforePath="$PROJECT_DIR$/get.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/save.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_final.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,7 +53,7 @@
       <recent name="C:\Users\Eunji\PycharmProjects\k-shield_log" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main_final">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="k-shield_log" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,8 +75,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="k-shield_log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Eunji\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_final" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -101,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622650991798</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="//complete">
+      <created>1622652405444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622652405444</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +148,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="//complete" />
@@ -124,26 +159,34 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="347" y="0" key="#main/0.0.1280.720@0.0.1280.720" timestamp="1622651203609" />
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1622652209213">
+    <state x="347" y="0" key="#main_final" timestamp="1623223733998">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1622652209212" />
-    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1622652209212">
+    <state x="347" y="0" key="#main_final/0.0.1280.720@0.0.1280.720" timestamp="1623223733998" />
+    <state width="1259" height="71" key="GridCell.Tab.0.bottom" timestamp="1623229572982">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1622652209212" />
-    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1622652209212">
+    <state width="1259" height="71" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1623229572982" />
+    <state width="1259" height="71" key="GridCell.Tab.0.center" timestamp="1623229572982">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1622652209212" />
-    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1622652209212">
+    <state width="1259" height="71" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1623229572982" />
+    <state width="1259" height="71" key="GridCell.Tab.0.left" timestamp="1623229572982">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1622652209212" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1622651132797">
+    <state width="1259" height="71" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1623229572982" />
+    <state width="1259" height="71" key="GridCell.Tab.0.right" timestamp="1623229572982">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1622651132797" />
+    <state width="1259" height="71" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1623229572982" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1622652769390">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1622652769390" />
+    <state x="445" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623223626023">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="445" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1623223626023" />
     <state x="362" y="148" key="git4idea.merge.GitPullDialog" timestamp="1622651164247">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
