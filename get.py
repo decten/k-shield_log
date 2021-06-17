@@ -1,4 +1,4 @@
-def get_log_data(filename):
+def get_ip_data(filename):
     log_dict = dict()
 
     with open(filename, encoding='cp949') as f:
